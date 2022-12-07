@@ -1,0 +1,14 @@
+body{
+    background-image: url(ceu.png);
+}
+.nome{
+margin: 100px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(0, 132, 255);
+}
+.inicio{
+    color: rgb(0, 132, 255);
+    margin:200px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
